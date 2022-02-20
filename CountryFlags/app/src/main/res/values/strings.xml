@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CountryFlags</string>
+    <string name="flags_of_different_countries">Flags of different countries</string>
+    <string-array name="country_names">
+        <item>Austria</item>
+        <item>Poland</item>
+        <item>Italy</item>
+        <item>Colombia</item>
+        <item>Madagascar</item>
+        <item>Thailand</item>
+        <item>Denmark</item>
+        <item>Switzerland</item>
+    </string-array>
+</resources>
